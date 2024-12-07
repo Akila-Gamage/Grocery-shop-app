@@ -1,4 +1,4 @@
-Grocery iOS App 🛒
+<h1>Grocery iOS App 🛒</h1>
 
 This is a university project developed using Swift for iOS. The app allows users to:
 
